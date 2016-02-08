@@ -8,9 +8,6 @@
     "type": "git",
     "url": "https://git.itransition.com/scm/rps/rps.git"
   },
-  "scripts": {
-    "check-modules-version": "node_modules\\.bin\\npm-check"
-  },
   "devDependencies": {
     "gulp": "^3.9.0",
     "gulp-exec": "^2.1.1",
