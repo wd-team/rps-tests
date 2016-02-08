@@ -1,5 +1,5 @@
 {
-  "name": "WD",
+  "name": "tests",
   "version": "1.0.0",
   "description": "TESTS RPS",
   "author": "WD",
@@ -24,7 +24,6 @@
     "cucumber": "^0.8.1",
     "cucumber-junit": "^1.3.0",
     "date.js": "^0.2.1",
-    "lodash": "^3.10.1",
     "moment": "^2.10.6",
     "selenium-webdriver": "^2.48.2"
   }
