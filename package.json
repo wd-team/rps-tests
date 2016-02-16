@@ -23,7 +23,7 @@
     "chai-http": "^2.0.1",
     "chai-subset": "^1.2.0",
     "cucumber": "^0.9.4",
-    "cucumber-junit": "^1.4.1",
+    "cucumber-junit": "^1.5.0",
     "date.js": "^0.2.2",
     "moment": "^2.11.2",
     "request-promise": "^2.0.0",
