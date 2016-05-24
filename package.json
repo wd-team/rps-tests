@@ -1,4 +1,5 @@
 {
+
   "name": "tests",
   "version": "1.0.0",
   "description": "TESTS RPS",
@@ -24,12 +25,12 @@
   },
   "dependencies": {
     "chai": "^3.5.0",
-    "chai-subset": "^1.2.0",
+    "chai-subset": "^1.2.2",
     "cucumber": "^0.9.4",
     "cucumber-junit": "^1.5.0",
     "date.js": "^0.3.1",
     "moment": "^2.11.2",
-    "request-promise": "^2.0.0",
-    "selenium-webdriver": "^2.52.0"
+    "request-promise": "^3.0.0",
+    "selenium-webdriver": "^2.53.2"
   }
 }
