@@ -31,8 +31,10 @@
     "date.js": "0.3.1",
     "keymirror": "0.1.1",
     "moment": "2.14.1",
+    "moment-timezone": "^0.5.11",
     "request": "2.74.0",
     "request-promise": "4.0.2",
-    "selenium-webdriver": "2.53.3"
+    "selenium-webdriver": "2.53.3",
+    "sugar-date": "^2.0.4"
   }
 }
