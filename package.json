@@ -32,6 +32,8 @@
     "keymirror": "0.1.1",
     "moment": "2.14.1",
     "moment-timezone": "^0.5.11",
+    "moment-business-days": "0.0.10",
+    "moment-range": "2.2.0",
     "request": "2.74.0",
     "request-promise": "4.0.2",
     "selenium-webdriver": "2.53.3",
